@@ -22,6 +22,7 @@
                 <input type="text" name="login" id="login"><br>
                 <label for="haslo">hasło</label><br>
                 <input type="password" name="haslo" id="haslo"><br>
+                <button type="submit">Zaloguj</button>
     </form>
     </div>
 </body>
