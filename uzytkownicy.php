@@ -8,6 +8,7 @@
 </head>
 <body>
     <div id="baner1">
+        <h2>Nasze osiedle</h2>
     </div>
 </body>
 </html>
