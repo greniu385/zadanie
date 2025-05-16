@@ -27,6 +27,10 @@
             <div id="prawy">
                 <h3>Wizytówka</h3>
             </div>
+
+             <footer>
+                Strone wykonał: Szymon Greń
+            </footer>
     </form>
     </div>
 </body>
