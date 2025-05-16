@@ -21,6 +21,7 @@
                 <label for="login">login</label><br>
                 <input type="text" name="login" id="login"><br>
                 <label for="haslo">hasło</label><br>
+                <input type="password" name="haslo" id="haslo"><br>
     </form>
     </div>
 </body>
