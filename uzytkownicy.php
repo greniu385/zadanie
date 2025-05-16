@@ -10,5 +10,9 @@
     <div id="baner1">
         <h2>Nasze osiedle</h2>
     </div>
+
+    <div id="baner2">
+        
+    </div>
 </body>
 </html>
