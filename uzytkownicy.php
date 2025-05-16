@@ -25,7 +25,7 @@
                 <button type="submit">Zaloguj</button>
 
             <div id="prawy">
-                
+                <h3>Wizytówka</h3>
             </div>
     </form>
     </div>
