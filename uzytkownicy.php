@@ -20,6 +20,7 @@
             <form action="uzytkownicy.php" method="post">
                 <label for="login">login</label><br>
                 <input type="text" name="login" id="login"><br>
+                <label for="haslo">hasło</label><br>
     </form>
     </div>
 </body>
