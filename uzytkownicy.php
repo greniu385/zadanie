@@ -23,6 +23,10 @@
                 <label for="haslo">hasło</label><br>
                 <input type="password" name="haslo" id="haslo"><br>
                 <button type="submit">Zaloguj</button>
+
+            <div id="prawy">
+                
+            </div>
     </form>
     </div>
 </body>
