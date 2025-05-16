@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="styl5.css">
 </head>
 <body>
-    
+    <div id="baner1">
+    </div>
 </body>
 </html>
