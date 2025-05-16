@@ -12,6 +12,10 @@
     </div>
 
     <div id="baner2">
+
+    </div>
+
+    <div id="lewy">
         
     </div>
 </body>
